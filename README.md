@@ -17,3 +17,7 @@ history - vēsture
 ctrl+l - ekrāna attīrīšna
 burts+tab - komandu saraksts
 ctrl+alt+t - termināla atvēršana
+cd
+mkdir
+rmdir
+cat fails.txt
