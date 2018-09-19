@@ -1,0 +1,17 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  nano git - upload
+    4  nano git-upload
+    5  ls -l
+    6  history > history_20180919.txt
+    7  ls -l
+    8  ./git-upload 20180919_09_50
+    9  git clone https://github.com/janisdg9/RTR105
+   10  mv git-upload RTR105/
+   11  mv history_20180919.txt RTR105/
+   12  ls -l
+   13  cd RTR105/
+   14  ls -l
+   15  history > history_20180919.txt
+   16  chmod 764 git-upload 
+   17  history > history_20180919.txt
