@@ -1,0 +1,49 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/janisdg9/RTR105
+    4  mv git-upload RTR105/
+    5  chmod 764 git-upload
+    6  cd RTR105
+    7  mv git-upload RTR105/
+    8  chmod 764 git-upload
+    9  history>hisotry_20181017.txt
+   10  ls -l
+   11  mv RTR105/git-upload ./
+   12  nano git-upload
+   13  mv git-upload RTR105/
+   14  chmod 764 git-upload 
+   15  ./git-upload 20181017_11_10
+   16  /git-upload 20181017_11_10
+   17  git-upload 20181017_11_10
+   18  chmod 764 git-upload 
+   19  nano git-upload
+   20  ./git-upload 20181017_11_10
+   21  /git-upload 20181017_11_10
+   22  ./git-upload 20181017_11_10
+   23  ./git-upload 20181017_11_10.txt
+   24  ./git-upload 20181017.txt
+   25  ./git-upload history 20181017.txt
+   26  chmod 764 git-upload
+   27  mv git-upload RTR105/
+   28  mv history_20181017.txt RTR105/
+   29  histpry>history_20181017.txt
+   30  history>history_20181017.txt
+   31  chmod 764 git-upload
+   32  ls -l
+   33  mv git-upload RTR105/
+   34  rm -rf RTR105/
+   35  mv RTR105/git-upload ./
+   36  cd RTR105/
+   37  chmod 764 git-upload
+   38  cd RTR105/
+   39  mv git-upload RTR105/
+   40  chmod 764 git-upload
+   41  git clone https://github.com/janisdg9/RTR105
+   42  cd RTR105/
+   43  ls -l
+   44  cd ..
+   45  cd RTR105/
+   46  mv RTR105/git-upload ./
+   47  mv git-upload RTR105/
+   48  ls -l
+   49  history
